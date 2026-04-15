@@ -82,6 +82,14 @@ It includes:
 <img width="1768" height="966" alt="image" src="https://github.com/user-attachments/assets/2ae326ae-db5f-4984-afab-c12233c885bc" />
 
 
+#🌟 Result / Output
 
+The portfolio website was successfully developed and deployed.
+
+✨ The website runs smoothly on all devices (mobile, tablet, desktop)
+⚡ Fast and responsive user interface
+🎯 Smooth navigation between sections (Home, About, Projects, Contact)
+💼 Showcases all my projects in a clean and professional way
+🚀 Successfully deployed and accessible via live link
 
 
