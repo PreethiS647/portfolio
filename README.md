@@ -82,7 +82,7 @@ It includes:
 <img width="1768" height="966" alt="image" src="https://github.com/user-attachments/assets/2ae326ae-db5f-4984-afab-c12233c885bc" />
 
 
-#🌟 Result / Output
+# 🌟 Result / Output
 
 The portfolio website was successfully developed and deployed.
 
