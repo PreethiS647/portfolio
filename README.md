@@ -57,7 +57,7 @@ This section displays my technical skills.
 It includes:
 - Frontend: React, HTML, CSS, JavaScript
 - Tools: Git, GitHub
-- Other: UI/UX basics, 3D web elements (if used)
+- Other: UI/UX basics, 3D web elements (if used) 
 
 
 
